@@ -15,3 +15,6 @@ This repository is part of a GitHub learning roadmap, focusing on:
 
 ## Project Structure
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
